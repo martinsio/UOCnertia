@@ -1,6 +1,6 @@
 # UOCnertia
 *Project by [Martín Justo](https://www.linkedin.com/in/martin-justo-fernandez/ "Martín Justo")*
-- This project is a class project, reason why it contains third-party code that may be copyrighted. You can check the original files [here](https://github.com/martinsio/UOCnertia/tree/main/files "here").
+- This is a class project, reason why it contains third-party code that may be copyrighted. You can check the original files [here](https://github.com/martinsio/UOCnertia/tree/main/files "here").
 - The development of this project has no commercial purpose.
 - The project contains bugs. You can see them in section **issues** of this document.
 - To run and manage the project it is recommended to use [IntelliJ](https://www.jetbrains.com/es-es/idea/ "IntelliJ") and [Java JDK 17 or higher](https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html "Java JDK 17 or higher").
