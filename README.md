@@ -4,11 +4,11 @@
 - The development of this project has no commercial purpose.
 - The project contains bugs. You can see them in section **issues** of this document.
 
-##About the project
+## About the project
 The objective of this project is to put into practice all the knowledge acquired during the subject DOOP (Object Oriented Design and Programming).
 To do this, we start from the information given by the [project documentation](https://github.com/martinsio/UOCnertia/tree/main/docs/edu.uoc.nertia "project documentation"), as well as the following UML file:
 ![](https://raw.githubusercontent.com/martinsio/UOCnertia/main/files/DPOO_PRAC2_20212.png)
 
 
-##Issues
+## Issues
 - When running the game via the GUI, some operations may not display correctly.
