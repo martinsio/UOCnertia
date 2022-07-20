@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.nertia.model.levels.LevelDifficultyTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-07-20T15:38:13" hostname="LABESTIA" time="0.006">
+  <properties/>
+  <testcase name="Sanity - Methods and Constructors definition" classname="edu.uoc.nertia.model.levels.LevelDifficultyTest" time="0.001"/>
+  <testcase name="Sanity - Enum definition" classname="edu.uoc.nertia.model.levels.LevelDifficultyTest" time="0.001"/>
+  <testcase name="Sanity - Fields definition" classname="edu.uoc.nertia.model.levels.LevelDifficultyTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
