@@ -9,7 +9,7 @@
 The objective of this project is to put into practice all the knowledge acquired during the subject DOOP (Object Oriented Design and Programming).
 To do this, we start from the information given by the [project documentation](https://github.com/martinsio/UOCnertia/tree/main/docs/edu.uoc.nertia "project documentation"), as well as the following UML file:
 ![](https://raw.githubusercontent.com/martinsio/UOCnertia/main/files/DPOO_PRAC2_20212.png)
-*Image rights reserved to the [Universitat Oberta de Catalunya](https://www.uoc.edu/ "Universitat Oberta de Catalunya")*
+*Image rights reserved to [Universitat Oberta de Catalunya](https://www.uoc.edu/ "Universitat Oberta de Catalunya")*
 
 ## Issues
 - When running the game via the GUI, some operations may not display correctly.
